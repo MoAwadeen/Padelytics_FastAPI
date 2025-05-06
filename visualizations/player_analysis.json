@@ -1,0 +1,60 @@
+{
+    "role": {
+        "player1": "Support",
+        "player2": "Support",
+        "player3": "Support",
+        "player4": "Support"
+    },
+    "role_advice": {
+        "player1": "Stay flexible to switch between attacking and defending as needed, providing support where required.",
+        "player2": "Stay flexible to switch between attacking and defending as needed, providing support where required.",
+        "player3": "Stay flexible to switch between attacking and defending as needed, providing support where required.",
+        "player4": "Stay flexible to switch between attacking and defending as needed, providing support where required."
+    },
+    "reaction_time_efficiency": {
+        "player1": 2.78,
+        "player2": 5.97,
+        "player3": 4.04,
+        "player4": 3.57
+    },
+    "reaction_advice": {
+        "player1": "Reaction time can be improved. Work on improving anticipation and positioning.",
+        "player2": "Reaction time can be improved. Work on improving anticipation and positioning.",
+        "player3": "Reaction time can be improved. Work on improving anticipation and positioning.",
+        "player4": "Reaction time can be improved. Work on improving anticipation and positioning."
+    },
+    "shot_effectiveness": {
+        "player1": null,
+        "player2": 1.0,
+        "player3": 0.78,
+        "player4": 1.0
+    },
+    "shot_advice": {
+        "player1": "No shot data available for analysis.",
+        "player2": "Excellent shot effectiveness! Your power is contributing well to ball speed.",
+        "player3": "Moderate shot effectiveness. A little more focus on shot power could help increase speed.",
+        "player4": "Excellent shot effectiveness! Your power is contributing well to ball speed."
+    },
+    "team_hits": {
+        "Team1": 5,
+        "Team2": 8
+    },
+    "player_contribution": {
+        "player1": 20.0,
+        "player2": 80.0,
+        "player3": 50.0,
+        "player4": 50.0
+    },
+    "stamina_drop_time": {
+        "player3": 0.06,
+        "player1": null,
+        "player2": 0.1,
+        "player4": 0.12
+    },
+    "stamina_advice": {
+        "player3": "Practice stamina under match-like conditions.",
+        "player1": "No significant stamina drop.",
+        "player2": "Practice stamina under match-like conditions.",
+        "player4": "Practice stamina under match-like conditions."
+    }
+}

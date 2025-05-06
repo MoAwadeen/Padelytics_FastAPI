@@ -1,0 +1,12 @@
+{
+    "team_hits": {
+        "Team1": 5,
+        "Team2": 8
+    },
+    "player_contribution": {
+        "Player1": 20.0,
+        "Player2": 80.0,
+        "Player3": 50.0,
+        "Player4": 50.0
+    }
+}

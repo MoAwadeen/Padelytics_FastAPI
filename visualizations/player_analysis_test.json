@@ -1,0 +1,30 @@
+[
+    {
+        "player": "player1",
+        "role": "Support",
+        "reaction_time_efficiency": 2.78,
+        "role_advice": "Stay flexible to switch between attacking and defending as needed, providing support where required.",
+        "reaction_advice": "Reaction time can be improved. Work on improving anticipation and positioning."
+    },
+    {
+        "player": "player2",
+        "role": "Support",
+        "reaction_time_efficiency": 5.97,
+        "role_advice": "Stay flexible to switch between attacking and defending as needed, providing support where required.",
+        "reaction_advice": "Reaction time can be improved. Work on improving anticipation and positioning."
+    },
+    {
+        "player": "player3",
+        "role": "Support",
+        "reaction_time_efficiency": 4.04,
+        "role_advice": "Stay flexible to switch between attacking and defending as needed, providing support where required.",
+        "reaction_advice": "Reaction time can be improved. Work on improving anticipation and positioning."
+    },
+    {
+        "player": "player4",
+        "role": "Support",
+        "reaction_time_efficiency": 3.57,
+        "role_advice": "Stay flexible to switch between attacking and defending as needed, providing support where required.",
+        "reaction_advice": "Reaction time can be improved. Work on improving anticipation and positioning."
+    }
+]

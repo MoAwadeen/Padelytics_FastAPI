@@ -1,0 +1,14 @@
+{
+    "stamina_drop_time": {
+        "player3": 0.06,
+        "player1": null,
+        "player2": 0.1,
+        "player4": 0.12
+    },
+    "stamina_advice": {
+        "player3": "Practice stamina under match-like conditions.",
+        "player1": "No significant stamina drop.",
+        "player2": "Practice stamina under match-like conditions.",
+        "player4": "Practice stamina under match-like conditions."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "shot_effectiveness": {
+        "player1": null,
+        "player2": 1.0,
+        "player3": 0.78,
+        "player4": 1.0
+    },
+    "shot_advice": {
+        "player1": "No shot data available for analysis.",
+        "player2": "Excellent shot effectiveness! Your power is contributing well to ball speed.",
+        "player3": "Moderate shot effectiveness. A little more focus on shot power could help increase speed.",
+        "player4": "Excellent shot effectiveness! Your power is contributing well to ball speed."
+    }
+}
